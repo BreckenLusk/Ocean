@@ -2,7 +2,7 @@
 ### "Customize Saily to your liking."  
 ![avatar](https://github.com/SailyTeam/Saily/raw/master/Artwork/LongBG.png)
 ## ALERT: 
-#### THIS SOURCE CODE MAY BE MORE UPDATED THAN THE CURRENT STABLE RELEASE. Sailboat will always remain at the same version as Saily, which is currently 0.1.2. Sailboat is not functional quite yet. Please be patient. For updates and support, please follow @BreckenLusk on Twitter.
+#### THIS SOURCE CODE MAY BE MORE UPDATED THAN THE CURRENT STABLE RELEASE. Sailboat will always remain at the same version as Saily, which is currently 0.1.2. Sailboat is not functional just yet. Please be patient. For updates and support, please follow @BreckenLusk on Twitter.
 
 ## What is Sailboat?
 Sailboat is an attempt to bring more customization and functionality to the already wonderful Saily Package Manager. Some features of Sailboat may eventually be implemented into Saily. If you like any of the features in Sailboat, feel free to contact us on Twitter @TrySaily or submit a feature request on Saily's GitHub page.
