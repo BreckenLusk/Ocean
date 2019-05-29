@@ -32,7 +32,7 @@ static void warningAlert(id self, NSString* message) {
     %orig;
     BOOL alertShown = [[[NSUserDefaults standardUserDefaults] objectForKey:@"ocean_jsWarningShown"] boolValue];
     if (!alertShown) {
-        warningAlert(self, @"JavaScript is currently enabled for all repos, this means repos can show you ads and potentially malware. If you want to disable this feature, you can do so from Ocean's settings page.");
+        warningAlert(self, @"JavaScript is currently enabled for all repos. This means that repos can show you ads and potentially malware. If you want to disable this feature, you can do so from Sailboat's settings page.");
         [[NSUserDefaults standardUserDefaults] setObject:@(YES) forKey:@"ocean_jsWarningShown"];
     }
 }
