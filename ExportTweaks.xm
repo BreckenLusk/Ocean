@@ -4,7 +4,7 @@
 %hook PackageListViewController
 - (void)viewDidLoad{
 	%orig;
-    if ([self.title isEqualToString:@"Packages"]) {
+    if ([self.title isEqualToString:@"Manage"]) {
         UIBarButtonItem *exportButton([[UIBarButtonItem alloc] initWithTitle:@"Export" style:UIBarButtonItemStylePlain target:self action:@selector(exportButtonClicked:)]);
         [[self navigationItem] setLeftBarButtonItem:exportButton];
     }
