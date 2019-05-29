@@ -14,13 +14,13 @@
 				<key>cell</key>
 				<string>PSGroupCell</string>
 				<key>footerText</key>
-				<string>Dark Mode does not effect web depictions</string>
+				<string>Dark Mode does not effect web depictions.</string>
 			</dict>
 			<dict>
 				<key>cell</key>
 				<string>PSSwitchCell</string>
 				<key>label</key>
-				<string>Darkmode Enabled</string>
+				<string>Dark Mode</string>
 				<key>key</key>
 				<string>darkEnabled</string>
 				<key>isGroupToggle</key>
@@ -167,7 +167,7 @@
 				<key>cell</key>
 				<string>PSSwitchCell</string>
 				<key>label</key>
-				<string>Custom tint color</string>
+				<string>Custom Tint Color</string>
 				<key>key</key>
 				<string>tintEnabled</string>
 				<key>isGroupToggle</key>
@@ -208,7 +208,7 @@
 				<key>cell</key>
 				<string>PSSwitchCell</string>
 				<key>label</key>
-				<string>Add support for more repos</string>
+				<string>Add Support for More Repos</string>
 				<key>key</key>
 				<string>repoSupport</string>
 				<key>PostNotification</key>
@@ -222,7 +222,7 @@
 				<key>cell</key>
 				<string>PSSwitchCell</string>
 				<key>label</key>
-				<string>Add export tweaks button</string>
+				<string>Export Tweaks Button</string>
 				<key>key</key>
 				<string>exportBtn</string>
 				<key>PostNotification</key>
@@ -236,7 +236,7 @@
 				<key>cell</key>
 				<string>PSSwitchCell</string>
 				<key>label</key>
-				<string>Enable JS in all repos</string>
+				<string>Allow Ads from Repos</string>
 				<key>key</key>
 				<string>enableJS</string>
 				<key>PostNotification</key>
@@ -251,7 +251,7 @@
 				<key>cell</key>
 				<string>PSGroupCell</string>
 				<key>footerText</key>
-				<string>TeamOcean © 2018</string>
+				<string>© 2019 Saily Team. All Rights Reserved.</string>
 				<key>footerAlignment</key>
 				<integer>1</integer>
 			</dict>
@@ -299,6 +299,6 @@
 			</dict>
 		</array>
 		<key>title</key>
-		<string>Ocean</string>
+		<string>Sailboat</string>
 	</dict>
 </plist>
