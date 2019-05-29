@@ -1,11 +1,11 @@
-Package: tk.oceantweak.ocean
-Name: Ocean
+Package: com.SailyTeam.Sailboat
+Name: Sailboat
 Depends: mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
-Version: 0.1.4
+Version: 0.1.2
 Architecture: iphoneos-arm
-Description: Supercharge Sileo with Ocean
+Description: Customize Sileo to your liking.
 Maintainer: webmaster@localhost.com
-Author: TeamOcean
+Author: Saily Team
 Section: Tweaks
 Depiction: https://oceantweak.tk/repo/depictions/Ocean
 Icon: file:///Library/PreferenceBundles/oceanprefs.bundle/icon-large.png
