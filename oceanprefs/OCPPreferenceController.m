@@ -13,12 +13,12 @@
 }
 
 -(void)apply {
-    UIAlertController* alert = [UIAlertController alertControllerWithTitle:@"Apply changes?" message:@"This will restart Sileo" preferredStyle:UIAlertControllerStyleAlert];
+    UIAlertController* alert = [UIAlertController alertControllerWithTitle:@"Apply Changes?" message:@"This will restart Saily." preferredStyle:UIAlertControllerStyleAlert];
 
     UIAlertAction* ok = [UIAlertAction actionWithTitle:@"Okay" style:UIAlertActionStyleDefault handler:^(UIAlertAction * _Nonnull action) {
         pid_t pid;
         int status;
-        const char* args[] = {"killall", "-9", "Sileo", NULL};
+        const char* args[] = {"killall", "-9", "Saily", NULL};
         posix_spawn(&pid, "/usr/bin/killall", NULL, NULL, (char* const*)args, NULL);
         waitpid(pid, &status, WEXITED);
     }];
