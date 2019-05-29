@@ -10,7 +10,7 @@
 				<key>label</key>
 				<string>Support</string>
 				<key>footerText</key>
-				<string>Created by @maxbridgland, @simalary_ch, @MidnightChip, @Muirey03 and @_Easy_Z_ with Help from @ReasearchOp of zEstLabs</string>
+				<string>Created by @BreckenLusk with the help of @maxbridgland, @simalary_ch, @MidnightChip, @Muirey03, @_Easy_Z_, and @ReasearchOp</string>
 			</dict>
 
 			<dict>
@@ -19,9 +19,9 @@
 				<key>cell</key>
 				<string>PSLinkCell</string>
 				<key>url</key>
-				<string>https://github.com/M4cs/Ocean/issues</string>
+				<string>https://github.com/BreckenLusk/Sailboat/issues</string>
 				<key>label</key>
-				<string>Report A Bug</string>
+				<string>Report a Bug</string>
 			</dict>
 
 			<dict>
@@ -30,9 +30,9 @@
 				<key>cell</key>
 				<string>PSLinkCell</string>
 				<key>url</key>
-				<string>https://twitter.com/OceanForSileo</string>
+				<string>https://twitter.com/TrySaily</string>
 				<key>label</key>
-				<string>@TeamOcean</string>
+				<string>@TrySaily</string>
 			</dict>
 
 		</array>
