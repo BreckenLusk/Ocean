@@ -2,7 +2,7 @@
 ### "Customize Saily to your liking."  
 ![avatar](https://github.com/SailyTeam/Saily/raw/master/Artwork/LongBG.png)
 ## ALERT: 
-#### THIS SOURCE CODE MAY BE MORE UPDATED THAN THE CURRENT STABLE RELEASE. Sailboat will always remain at the same version as Saily, which is currently 0.1.2. Sailboat is not functional just yet. Please be patient. For updates and support, please follow @BreckenLusk on Twitter.
+#### THIS SOURCE CODE MAY BE MORE UPDATED THAN THE CURRENT STABLE RELEASE. Sailboat will always remain at the same version as Saily, which is currently 0.1.2. Sailboat is not functional just yet. Please be patient.
 
 ## What is Sailboat?
 Sailboat is an attempt to bring more customization and functionality to the already wonderful Saily Package Manager. Some features of Sailboat may eventually be implemented into Saily. If you like any of the features in Sailboat, feel free to contact us on Twitter @TrySaily or submit a feature request on Saily's GitHub page.
@@ -36,7 +36,7 @@ Here is a simple guide to help you install Sailboat on your device!
 To install Sailboat through Cydia, Sileo, or Saily, pleas add our repository by going to Sources > Edit > Add and typing `https://repo.sailyteam.com/`. Once you add the official Saily Team repo, you will be able to search fo Sailboat in Cydia, Sileo, or Saily and download it! After installing and respringing make sure to close Saily if it was running in the background. Go to your Settings app and check out some of Sailboats's configuration settings there. Like any other tweak you'll be able to change your preferences from Settings. Close Sileo after saving settings to ensure things are working (*functionality to close from the Settings pane coming in future builds*).
 
 ## Support
-Either contact us [@SailySupport](https://twitter.com/OceanForSileo) on Twitter or open up a GitHub Issue. Any Issues on the GitHub will most likely be dealt with second as we mainly offer support on Twitter.
+Either contact us [@SailySupport](https://twitter.com/SailySupport) on Twitter or open up a GitHub Issue. Any Issues on the GitHub will most likely be dealt with second as we mainly offer support on Twitter.
 
 ## Contributing
 If you would like to add features to Sailboat feel free to do so by making a fork and creating a Pull Request. If they are good features we will accept them and add them into the next version.
